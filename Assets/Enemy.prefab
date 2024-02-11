@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5e6d78a6dc2b3c048b4d5fccf0363b15, type: 2}
+  - {fileID: 2100000, guid: dc6c7a7288eb2fb42980431c58b42fe1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -132,5 +132,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fireballPrefab: {fileID: 6398268741718797701, guid: de92b0f6075c0cf4487b74e02e6d89cc, type: 3}
-  speed: 6
+  speed: 10
   obstacleRange: 5
